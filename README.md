@@ -1,3 +1,4 @@
-# Texttract
+# Textract (Chat Club)
 
-##<a  href="https://textract-chatclub.netlify.app/">Link of the Project </a>
+## Link of the Project attached below
+### <a  href="https://textract-chatclub.netlify.app/">Click here</a>
