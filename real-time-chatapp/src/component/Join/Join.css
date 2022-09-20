@@ -1,0 +1,197 @@
+
+.JoinPage{
+    background-color:  #042743;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.JoinContainer{
+
+    /* border: 2px solid white; */
+    /* height: 50%; */
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.JoinContainer > img {
+    width: 10vmax;
+
+}
+
+.JoinContainer >h1{
+    color: white;
+    font-size: 2.5vmax;
+    width: 30vmax;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-bottom: 0.2vmax solid white;
+    padding: 1vmax;
+    /* margin-bottom: 24px; */
+    box-sizing: border-box;
+
+}
+
+#joinInput{
+    width: 25vmax;
+    padding: 1.5vmax;
+    border: none;
+    outline: none;
+    font-size: 1.2vmax;
+    /* margin: 2vmax; */
+    margin-top: 2vmax;
+    box-sizing: border-box;
+}
+
+.optionform{
+  margin-top: 0%;
+  width: 25vmax;
+  padding: 1.5vmax;
+  border: none;
+  outline: none;
+  font-size: 1.2vmax;
+  margin: 2vmax;
+  box-sizing: border-box;
+
+}
+
+.joinBtn {
+
+    width: 25vmax;
+    padding: 1.5vmax;
+    border: none;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    font-size: 1.2vmax;
+    background-color: #6C62CA;
+    box-sizing: border-box;
+    transition: all 0.3s;
+
+
+}
+
+.joinBtn:hover{
+
+    background-color: #6c62ca85;
+
+}
+
+
+/* 
+.homePageWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    height: 100vh;
+    width: 100vw;
+    background-color:  #042743;
+  }
+
+  .homePageWrapper> img {
+    width: 80vmax;
+
+}
+  
+  .formWrapper{
+  
+    background: #282A36;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    max-width: 90%;
+    
+  }
+  
+  footer{
+    position:fixed;
+    bottom: 0;
+  
+  }
+  
+  footer a{
+    color: white;
+  }
+  
+  
+  .inputGroup {
+    display: flex;
+    flex-direction: column;
+  
+  }
+  
+  .inputBox{
+  
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin-bottom: 14px;
+    background: #eee;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .mainLabel{
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+  
+  .homePageLogo{
+  
+    height: 80px;
+    margin-bottom: 30px;
+  
+  
+  }
+  
+  .btn {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  
+  }
+  
+  .JoinBtn {
+    background:#6C62CA;
+    color: white;
+    width: 100px;
+    margin-left: auto;
+  
+  }
+  
+  .JoinBtn:hover{
+   
+    background: #231d60;
+  
+  }
+  
+  .createInfo{
+    margin:0 auto;
+    margin-top: 20px;
+  }
+  
+  .createNewBtn{
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid;
+  }
+  
+  .createNewBtn:hover,footer a:hover{
+  
+    color: rgb(48, 72, 100);
+  
+  } */
+  

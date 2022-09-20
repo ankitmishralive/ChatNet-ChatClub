@@ -1,0 +1,116 @@
+.chatPage{
+    background-color: #042743;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chatContainer{
+
+ 
+  
+    background: white;
+    height: 60%;
+    width: 50%;
+    /* box-sizing: border-box; */
+}
+
+
+.header{
+    background-color:  #6C62CA;
+    height: 15%;
+    /* box-sizing: border-box; */
+}
+
+.chatBox{
+    border: 0.2vmax solid black;
+    box-sizing: border-box;
+    height: 70%;
+ 
+ 
+}
+
+.inputBox{
+    border:0.2vmax solid black ;
+    height: 15%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    
+   
+}
+
+#chatInput{
+    width: 80%;
+    border: none;
+    background-color: white;
+    padding: 1.2vmax;
+    box-sizing: border-box;
+    outline: none;
+    font-size: 1.2vmax;
+    
+}
+
+.sendbtn{
+    background-color: #183f5f;
+    color: white;
+    padding: 1.2vmax;
+    width: 20%;
+    border: none;
+    outline: none;
+    transition: all 0.3s;
+    
+}
+
+.sendbtn:hover{
+    background-color:  #6C62CA;
+    color: black;
+}
+
+.mainbody{
+
+    background-color:  #042743;
+    /* background-color:  rgb(36 74 104); */
+
+}
+
+.chatroom{
+    background-color:   rgb(36 74 104);
+}
+
+.heading{
+    color: azure;
+
+}
+
+body{
+
+ background-color:  #042743;
+ /* background-color:  rgb(36 74 104); */
+
+ /* color: rgb(131, 109, 232); */
+
+}
+
+.inputtextbg{
+
+    background-color:   rgb(36 74 104);
+
+}
+
+
+.chatsendbtn{
+
+      background-color:  #6C62CA;
+      /* background-color:  #48494a; */
+     
+      transition: all 0.3s;
+    
+
+}
+.chatsendbtn:hover{
+    background-color:  #9c92f5;
+    /* color: black; */
+}
